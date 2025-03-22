@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1741881807 source:d:\coding\cpp\performer\profiler.cpp
+	"Profiler.h"
+
+1741881945 d:\coding\cpp\performer\profiler.h
+	<iostream>
+	<map>
+	<string>
+
+1742630234 source:d:\coding\cpp\profiler\profiler.cpp
+	"Profiler.h"
+
+1742630273 d:\coding\cpp\profiler\profiler.h
+	<iostream>
+	<chrono>
+	<map>
+	<set>
+	<string>
+	<cstdlib>
+	<typeinfo>
+	<iomanip>
+
+1742630317 source:d:\coding\cpp\profiler\main.cpp
+	"Profiler.h"
+	<thread>
+
